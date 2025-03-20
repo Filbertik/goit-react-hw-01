@@ -71,3 +71,8 @@ button:focus-visible {
   padding: 12;
   list-style: circle;
 }
+
+/* edits */
+li {
+  list-style: none;
+}

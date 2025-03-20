@@ -1,4 +1,5 @@
 import React from "react";
+// import css from "./FriendListItem.module.css";
 import css from "./FriendListItem.module.css";
 
 export const FriendListItem = ({ friend }) => {

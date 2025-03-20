@@ -25,3 +25,23 @@
 .friend__status_offline {
   color: #ffa600;
 }
+
+/* edit  */
+
+.friend__container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.friend__avatar {
+  border-radius: 50%;
+}
+
+.friend__status {
+  font-size: 14px;
+  font-weight: bold;
+}
